@@ -1,0 +1,32 @@
+https://tutorial.djangogirls.org/ja/django_start_project/
+
+
+仮想環境起動
+C:\Users\Name\djangogirls > myvenv\Scripts\activate
+
+サーバ起動
+(myvenv) ~/djangogirls$ python manage.py runserver
+
+サイト表示
+http://127.0.0.1:8000/
+
+http://127.0.0.1:8000/admin/login/?next=/admin/
+
+root
+0808redhopper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
