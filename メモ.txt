@@ -13,7 +13,7 @@ http://127.0.0.1:8000/
 http://127.0.0.1:8000/admin/login/?next=/admin/
 
 root
-0808redhopper
+08**red******
 
 
 
